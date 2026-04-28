@@ -1,7 +1,9 @@
 # Key-Generator
 
-This function can be used in many case where there is a need for a key.
+This function can be used in any case where there is a need for a key.
+<br>
 <br>
 Key is in format XXXX-XXXX-XXXX-XXXX. For example: 3V7q-9wNk-qH4K-rvnT.
+<br>
 <br>
 Function generates key from god_list; some characters and numbers are absent for better readability of the key.
